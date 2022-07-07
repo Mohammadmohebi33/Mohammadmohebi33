@@ -8,5 +8,4 @@
 </a>
 
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=mohammadmohebi33 alt=mohammadmohebi33 /> <b>Since July 2022</b></p>
 
